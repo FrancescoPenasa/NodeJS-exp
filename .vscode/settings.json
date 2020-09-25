@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/358b31df-9fd4-42c5-a3b6-5fb3d7a5059b/resourceGroups/tmp_projets/providers/Microsoft.Web/sites/francescopenasa",
+    "appService.deploySubpath": "."
+}
